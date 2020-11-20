@@ -10,3 +10,5 @@ nav:
 theme: readthedocs
 
 copyright: "&copy; 2020 RoRoRobby"
+
+edit_uri: blob/master/docs/docs/
