@@ -1,0 +1,12 @@
+site_name: Rbgame
+site_url: https://rb.rororobby.ml/
+site_author: RoRoRobby
+
+repo_url: https://github.com/rororobby/rbgame/
+
+nav:
+  - Home: index.md
+
+theme: readthedocs
+
+copyright: "&copy; 2020 RoRoRobby"
