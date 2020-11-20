@@ -1,8 +1,6 @@
-ver = system("git rev-parse --short HEAD")
-
 Gem::Specification.new do |s|
   s.name        = 'rbgame'
-  s.version     = ver
+  s.version     = '0.0.2'
   s.date        = '2020-11-16'
   s.summary     = "Rbgame"
   s.description = "An implementation of Pygame in Ruby"
